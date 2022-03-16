@@ -6,7 +6,7 @@
 - 🎓 I am a Data Science Grad
 - 🌱 I’m currently working on Machine Learning and Neural Networks
 - 💞️ I’m looking to collaborate on Data Science Projects and Advanced Web Development
-- 📫 Reach me @ <a href="https://twitter.com/sakthisundar07"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;<a href="https://www.linkedin.com/in/sakthi-sundar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;<a href="https://www.instagram.com/"><img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+- 📫 Reach me @ <a href="https://twitter.com/sakthisundar07"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;<a href="https://www.linkedin.com/in/sakthi-sundar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;<a href="https://www.instagram.com/sakthi0722/"><img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 
 ---
 
